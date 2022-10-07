@@ -6,7 +6,7 @@ Laravel 9 Project (Blog) from my course on YouTube "https://www.youtube.com/watc
 
 # How to Run
 
-#Clone project
+# Clone project
 ```
 git clone https://github.com/zementalist/Laracast
 ```
@@ -26,5 +26,5 @@ Open your .env file and change the database name (DB_DATABASE) to whatever you h
 ```php artisan migrate```
 # Run
 ```php artisan serve```
-# Go to http://localhost:8000/
+<br>Go to http://localhost:8000/
 
